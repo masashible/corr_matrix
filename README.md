@@ -1,7 +1,7 @@
 # About
-`corr_matrix_4r` provides you easy data-reshaping for Researchers.
-When you want to create a Table like: "Means, Standard Deviations, and Intercorrelations", "Correlations among main variables", "Intercorrelations between Variables"
-you can use this ipynb.
+`corr_matrix_4r` provides you easy data-reshaping for Researchers. When you want to create a Table like: "Means, Standard Deviations, and Intercorrelations", "Correlations among main variables", "Intercorrelations between Variables" you can use this ipynb.
+
+なにかミスを見つけたら、ついったー @ryouen でお待ちしております！
 
 # 使いかた
 'anaconda'で'Jupyter Notebook'がインストールされている方は普通に使って下さい。
